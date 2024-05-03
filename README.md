@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @Niklas20114552
-- 👀 I’m interested in programming
-- 🖥️ I'm a Linux user and no longer use Windows
-- 🌍 I'm from Germany. So i'm not perfect in english.
+# Hi!
 
-<!---
-Niklas20114552/Niklas20114552 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm @Niklas20114552
+
+### What do I do?
+
+I like programming, especially with Python. :)
+
+I don't know any other coding programming languages.
+
+### Contact
+
+E-Mail: [trashmail1@gnuhobbyhub.de](mailto:trashmail@gnuhobbyhub.de) (it isn't called _trashmail_ without reason, not that commonly checked.)
+
+Discord: @niecraft
+
+_Please don't spam ty._
