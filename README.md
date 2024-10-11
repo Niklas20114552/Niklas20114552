@@ -4,7 +4,7 @@
 
 ### What do I do?
 
-I like programming, especially with Python. :)
+I like programming, especially with Python and Svelte. :)
 
 I don't know any other coding programming languages.
 
